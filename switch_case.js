@@ -50,3 +50,6 @@ switch(haftaKacGun){
 
     default: console.log("Böyle bir gün bulunamadı");
 }
+
+
+
